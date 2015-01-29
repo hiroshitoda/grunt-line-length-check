@@ -1,0 +1,19 @@
+{
+  "name": "grunt-line-length-check",
+  "version": "0.0.3",
+  "description": "line length checker plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "line",
+    "length"
+  ],
+  "author": "Toda Hiroshi",
+  "license": "CC0",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
