@@ -1,6 +1,6 @@
 {
   "name": "grunt-line-length-check",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "line length checker plugin",
   "main": "index.js",
   "scripts": {
